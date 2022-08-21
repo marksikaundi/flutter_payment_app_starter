@@ -1,6 +1,5 @@
-# flutter_payment_app
+# flutter sample payment system
 
-A new Flutter project.
 
 ## Getting Started
 
